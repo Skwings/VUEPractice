@@ -1,6 +1,6 @@
 import * as api from '@/api/axios.js'
 
-export function showMsg(params){
+export function showMsg(params){ 
     return api.get('/api/showMsg', params)
 }
 

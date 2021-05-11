@@ -62,7 +62,7 @@ export function get(url, params){
     })
 }
 
-/** 
+/**  
  * post方法
  * @param {String} url [请求地址]
  * @param {Object} params [请求携带的参数]
